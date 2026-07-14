@@ -136,6 +136,6 @@ class MainActivity : AppCompatActivity() {
 	}
 
 	companion object {
-		private const val YOUR_TOKEN = "6d779f74-d2dd-4c47-a6a9-255fb850ef57"
+		private const val YOUR_TOKEN = "42cc72d1-577d-458e-99a1-71fd5007442c"
 	}
 }
